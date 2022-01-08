@@ -52,7 +52,7 @@ from core.decorators import register, language, handle_error, only_admins
 REPO = """
  **Music Player**
 - Repo: [GitHub](https://github.com/Professor-OS/AV-BOT)
-- Owner: @NAAN_OBBA_KANNADIGA
+- Owner: @agoraswamy_professor
 """
 
 
